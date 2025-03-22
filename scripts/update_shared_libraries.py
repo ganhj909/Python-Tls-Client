@@ -1,6 +1,6 @@
 import requests
 
-shared_library_version = "1.7.8"
+shared_library_version = "1.8.0"
 github_download_url = "https://github.com//bogdanfinn/tls-client/releases/download/v{}/{}"
 
 if shared_library_version == "1.7.2":
